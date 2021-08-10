@@ -4,8 +4,6 @@
   <img alt="JavaScript Badge" src="https://img.shields.io/badge/-javascript-important?style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=black" />
 </p>
 
-<h1 align="center">Quote Generator</h1>
+<h3 align="center">Quote Generator</h3>
 
 <p align="center">A quote generator for Twitter developed in JavaScript.</p>
-
-<img src="img/screenshot.png" alt="Screenshot">
